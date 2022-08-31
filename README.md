@@ -2,7 +2,7 @@
 
 My name is Jacques. 
 
-I'm currently working on a game, please come check it out at https://jacquesj.itch.io/2dscape
+Thanks for stopping by!
 
 <!--
 **frederickjjoubert/frederickjjoubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
