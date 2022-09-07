@@ -2,6 +2,30 @@
 
 My name is Jacques. 
 
+🔭 I’m currently working on ...
+- A 2D game in Rust using the [Bevy game engine](https://bevyengine.org).
+
+🌱 I’m currently learning ...
+- Rust
+
+👯 I’m looking to collaborate on ...
+- Plugins for the Bevy game engine.
+
+🤔 I’m looking for help with ...
+- Learning Rust and ECS game development.
+
+💬 Ask me about ...
+- The 100s of side projects in my home directory.
+
+📫 How to reach me:
+- Discord: happyhippie#4468
+- Twitter: https://twitter.com/jacquesj_dev
+- Itch: https://jacquesj.itch.io
+
+😄 Pronouns: (He/Him)
+
+⚡ Fun fact: I grew up in Cape Town, South Africa
+
 Thanks for stopping by!
 
 <!--
