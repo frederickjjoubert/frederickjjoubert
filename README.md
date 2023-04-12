@@ -12,7 +12,6 @@ My name is Jacques.
 - The 100s of side projects in my home directory.
 
 📫 How to reach me:
-- Discord: happyhippie#4468
 - Twitter: https://twitter.com/jacquesj_dev
 - Itch: https://jacquesj.itch.io
 
