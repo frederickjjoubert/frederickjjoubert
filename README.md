@@ -2,11 +2,7 @@
 
 My name is Jacques. 
 
-🔭 I’m currently working on ...
-- A 2D game in Rust using the [Bevy game engine](https://bevyengine.org).
-
-👯 I’m looking to collaborate on ...
-- Games and Plugins for the Bevy game engine.
+🔭 I’m currently looking for a new role!
 
 💬 Ask me about ...
 - The 100s of side projects in my home directory.
