@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Jacques. 
-
-🔭 I’m currently looking for a new role!
+My name is Jacques.
 
 💬 Ask me about ...
 - The 100s of side projects in my home directory.
